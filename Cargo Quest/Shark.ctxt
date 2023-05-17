@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Shark
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Shark\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=boat
+comment1.target=Shark(greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=x1\ y1\ x2\ y2
+comment3.target=double\ distance(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ checkCollision()
+comment5.params=
+comment5.target=void\ GameOver()
+numComments=6
